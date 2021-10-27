@@ -2,7 +2,7 @@ const SocialMedia = {
   github: 'IsCorrea',
   linkedin: 'in/isabella-pires-f-corrêa',
   pinterest: 'isabellacorrea/_saved/',
-  facebook: 'arthurrmqs',
+  facebook: 'isabella.pires.754',
   twitter: 'Isabell87901065'
 }
 
